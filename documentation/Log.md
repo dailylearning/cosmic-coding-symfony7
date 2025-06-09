@@ -7,5 +7,5 @@
     - `symfony check:req` - Symfony Requirements Checker to verify your system meets the requirements to run Symfony.
     - `symfony new cosmic-coding-symfony7` - Creates a new Symfony 7 project in a directory named cosmic-coding-symfony7.
 02. Getting to Know our Tiny Project
-    - `git ls-files` - For symfony only 15 files to be shown!
-    - `composer install` - To install packages under the vendor directory
+    - `git ls-files` - Lists tracked files in the Git repository (only ~15 files expected for Symfony initially).
+    - `composer install` - Installs project dependencies defined in composer.lock into the vendor directory.
