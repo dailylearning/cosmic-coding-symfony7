@@ -28,8 +28,8 @@ What you will be learning
 15. Say hello to MakerBundle
 
 Chapters:
-1. Setting up our Symfony App
-2. Getting to Know our Tiny Project
+1. [Setting up our Symfony App](./01.md)
+2. [Getting to Know our Tiny Project](./02.md)
 
 ##### Helpful Links
 * [Command History Log](Log.md)
