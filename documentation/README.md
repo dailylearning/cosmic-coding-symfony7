@@ -29,6 +29,7 @@ What you will be learning
 
 Chapters:
 1. Setting up our Symfony App
+2. Getting to Know our Tiny Project
 
 ##### Helpful Links
 * [Command History Log](Log.md)
