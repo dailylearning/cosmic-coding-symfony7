@@ -5,9 +5,10 @@ namespace App\Controller;
 use Symfony\Component\HttpFoundation\Response;
 use Symfony\Component\Routing\Attribute\Route;
 
-class MainController {
+class MainController
+{
     #[Route('/')]
-    public function homepage() : Response
+    public function homepage(): Response
     {
         return new Response('Hello World!');
     }

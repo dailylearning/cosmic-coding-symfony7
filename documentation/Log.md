@@ -11,3 +11,12 @@
     - `composer install` - Installs project dependencies defined in composer.lock into the vendor directory.
 03. Routes, Controllers & Responses
     - Visit - http://127.0.0.1:8000/
+04. Magical Flex Recipes
+    - `composer require symfony/http-client` - Installs the Symfony HTTP client component.
+    - `composer require http-client` - Installs a generic HTTP client (may trigger a Symfony Flex recipe) - visit for more info - https://github.com/symfony/recipes/blob/flex/main/RECIPES.md 
+    - `composer recipes` - Lists all installed Symfony Flex recipes.
+    - `composer recipes symfony/framework-bundle` - Shows details of the recipe applied for the FrameworkBundle.
+    - `composer require cs-fixer-shim` - Installs a PHP-CS-Fixer shim (lightweight proxy) via Composer.
+    - `./vendor/bin/php-cs-fixer` - Runs the PHP-CS-Fixer CLI tool from the local project.
+    - `./vendor/bin/php-cs-fixer fix` - Automatically fixes coding style issues in your PHP files.
+    - `PHP_CS_FIXER_IGNORE_ENV=1 ./vendor/bin/php-cs-fixer fix` - Forces PHP-CS-Fixer to run even with an unsupported PHP version.
