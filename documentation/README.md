@@ -32,6 +32,7 @@ Chapters:
 2. [Getting to Know our Tiny Project](./02.md)
 3. [Routes, Controllers & Responses](./03.md)
 4. [Magical Flex Recipes](./04.md)
+5. [Twig & Templates](./05.md)
 
 ##### Helpful Links
 * [Command History Log](Log.md)

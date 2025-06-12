@@ -20,3 +20,5 @@
     - `./vendor/bin/php-cs-fixer` - Runs the PHP-CS-Fixer CLI tool from the local project.
     - `./vendor/bin/php-cs-fixer fix` - Automatically fixes coding style issues in your PHP files.
     - `PHP_CS_FIXER_IGNORE_ENV=1 ./vendor/bin/php-cs-fixer fix` - Forces PHP-CS-Fixer to run even with an unsupported PHP version.
+05. Twig & Templates
+    - `composer require twig'
