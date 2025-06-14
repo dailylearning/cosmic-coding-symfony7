@@ -21,6 +21,13 @@
     - `./vendor/bin/php-cs-fixer fix` - Automatically fixes coding style issues in your PHP files.
     - `PHP_CS_FIXER_IGNORE_ENV=1 ./vendor/bin/php-cs-fixer fix` - Forces PHP-CS-Fixer to run even with an unsupported PHP version.
 05. Twig & Templates
-    - `composer require twig'
+    - `composer require twig` - Installs the Twig templating engine into your Symfony project.
 06. Twig Template Inheritance
+07. Debugging with the Amazing Profiler
+    - `composer require debug` - Adds the Symfony Debug component to your project via Composer.
+    - `php bin/console` - Runs the Symfony console tool using PHP.
+    - `./bin/console` - Shortcut to run Symfony's console commands from the project root.
+    - `./bin/console debug:router` - Lists all routes defined in your Symfony application.
+    - `./bin/console debug:twig` - Shows available Twig functions, filters, and global variables.
+    
     
