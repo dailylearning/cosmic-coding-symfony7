@@ -22,3 +22,5 @@
     - `PHP_CS_FIXER_IGNORE_ENV=1 ./vendor/bin/php-cs-fixer fix` - Forces PHP-CS-Fixer to run even with an unsupported PHP version.
 05. Twig & Templates
     - `composer require twig'
+06. Twig Template Inheritance
+    
