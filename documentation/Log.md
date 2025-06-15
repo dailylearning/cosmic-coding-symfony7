@@ -29,5 +29,5 @@
     - `./bin/console` - Shortcut to run Symfony's console commands from the project root.
     - `./bin/console debug:router` - Lists all routes defined in your Symfony application.
     - `./bin/console debug:twig` - Shows available Twig functions, filters, and global variables.
-    
-    
+08. Creating JSON API Endpoints    
+    - `composer require serializer` - Installs Symfony's Serializer component, which allows converting objects to and from formats like JSON, XML, or arrays.
