@@ -31,3 +31,7 @@
     - `./bin/console debug:twig` - Shows available Twig functions, filters, and global variables.
 08. Creating JSON API Endpoints    
     - `composer require serializer` - Installs Symfony's Serializer component, which allows converting objects to and from formats like JSON, XML, or arrays.
+09 - Services: The Backbone of Everything
+    - `./bin/console debug:container` - Lists all available services and their details in the service container.
+    - `./bin/console debug:autowiring` - Shows all services available for autowiring and their corresponding types.
+    - `./bin/console debug:autowiring log` - Displays the service(s) that can be autowired for the log type or alias.

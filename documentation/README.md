@@ -36,6 +36,7 @@ Chapters:
 6. [Twig Template Inheritance](./06.md)
 7. [Debugging with the Amazing Profiler](./07.md)
 8. [Creating JSON API Endpoints](./08.md)
+9. [Services: The Backbone of Everything](./09.md)
 
 ##### Helpful Links
 * [Command History Log](Log.md)
